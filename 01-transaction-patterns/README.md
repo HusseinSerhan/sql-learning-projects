@@ -42,11 +42,13 @@ The dataset contains two tables:
 - DB Fiddle for query execution
 
 ## Repository Structure
+```
 01-transaction-patterns/
 ├── data/
 │   └── schema.sql
 └── queries/
-└── analysis.sql
+    └── analysis.sql
+```
 
 ## Learning Journey
 This is part of my SQL learning journey, focusing on building foundational skills for data analysis. This project represents my first steps in working with SQL and financial data.
