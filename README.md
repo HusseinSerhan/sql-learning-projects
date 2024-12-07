@@ -1,2 +1,0 @@
-# sql-learning-projects
-
