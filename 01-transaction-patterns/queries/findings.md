@@ -34,6 +34,29 @@
    - Short time period (4 days)
    - Few transactions per age group
 
+# Recommendations
+
+## Immediate Lending Strategy
+1. Prioritize Credit Score
+   - Higher credit scores correlate with better payment behavior
+   - Use credit score as primary lending criterion
+   - Consider higher credit limits for customers with scores above 720
+
+2. Age Group Considerations
+   - Focus on 40s and 20s age groups
+   - These groups show more balanced payment-to-purchase ratios
+   - Consider more conservative limits for 30s age group until more data is available
+
+## Data Improvements Needed
+3. Expand Data Collection
+   - Increase observation period beyond 4 days
+   - Gather larger customer sample size
+   - Track additional metrics:
+     - Payment history over several months
+     - Income data
+     - Length of credit history
+     - Other debt obligations
+
 ### Potential Lending Implications
 1. Credit Risk Factors:
    - Payment behavior varies significantly by age group
